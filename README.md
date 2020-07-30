@@ -6,4 +6,4 @@
 
 📫 How to reach me: Email
 
-⚡ Fun fact: My undergraduate and master's degree are both in Music!
+⚡ Fun fact: My Bachelor's and Master's degree are both in Music!
