@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-🔭 I’m currently working on: What Don't You Want?! - A Web App for the picky eaters out there
+🔭 I’m currently working on: Colt Steele's Data Structures and Algorithms Udemy Course
 
-🌱 I’m currently learning: TypeScript
+🌱 I’m currently learning: Data Structures and Algorithms
 
 📫 How to reach me: Email
 
