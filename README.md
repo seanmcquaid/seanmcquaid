@@ -1,9 +1,7 @@
-### Hello! 👋
+### Hello there, welcome to my GitHub! 👋
 
-🔭 I’m currently working on: Colt Steele's Data Structures and Algorithms Udemy Course
+📖  I’m currently learning: Angular
 
-🌱 I’m currently learning: Data Structures and Algorithms
+📫  How to reach me: Email
 
-📫 How to reach me: Email
-
-⚡ Fun fact: My Bachelor's and Master's degree are both in Music!
+🎺  Fun fact: My Bachelor's and Master's degree are both in Trumpet!
