@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-📖  I’m currently learning: Better architecture principles with React
+📖  I’m currently learning: Better architecture principles with React⚛️
 
 📫  How to reach me: Email
 
