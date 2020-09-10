@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-📖  I’m currently learning: Building APIs with Java/SpringBoot
+🛠 I'm currently building: Whac-A-Mole
 
 📫  How to reach me: Email
 
