@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently building: Whac-A-Mole
+🛠 I'm currently building: A clone of Hackernews to learn GraphQL
 
 📫  How to reach me: Email
 
