@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently building: A clone of Hackernews to learn GraphQL
+🛠 I'm currently building/learning: React 17 and Angular
 
 📫  How to reach me: Email
 
