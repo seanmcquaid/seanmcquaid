@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: React 17 and Angular
+🛠 I'm currently working with: Nextjs
 
 📫  How to reach me: Email
 
