@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: Nextjs
+🛠 I'm currently working with: Vue.js
 
 📫  How to reach me: Email
 
