@@ -6,5 +6,5 @@
 
 🎺  Fun fact: My Bachelor's and Master's degree are both in Music with a focus in Jazz Trumpet!
 
-### My participation on github
+### My Participation on GitHub
 ![Sean McQuaid github stats](https://github-readme-stats.vercel.app/api?username=seanmcquaid)
