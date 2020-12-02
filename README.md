@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: Vue.js and GraphQL
+🛠 I'm currently working with: React and Socket.io
 
 📫  How to reach me: Email
 
