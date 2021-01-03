@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: React, TypeScript and RxJS
+🛠 I'm currently working with: React and TypeScript
 
 📫  How to reach me: Email
 
