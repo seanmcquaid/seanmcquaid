@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: RxJS
+🛠 I'm currently working with: Svelte
 
 📫  How to reach me: Email
 
