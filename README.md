@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: Svelte
+🛠 I'm currently working with: ReactJS + Redux Observable
 
 📫  How to reach me: Email
 
