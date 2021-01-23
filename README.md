@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: ReactJS + Redux Observable
+🛠 I'm currently working with: Performance Optimization with React! 
 
 📫  How to reach me: Email
 
