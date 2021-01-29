@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working with: Performance Optimization with React! 
+🛠 I'm currently working on: A URL Shortener with the PERN Stack
 
 📫  How to reach me: Email
 
