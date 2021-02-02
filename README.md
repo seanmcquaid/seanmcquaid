@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working on: A URL Shortener with the PERN Stack
+🛠 I'm currently building with: The MERN Stack
 
 📫  How to reach me: Email
 
