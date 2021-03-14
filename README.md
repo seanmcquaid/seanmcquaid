@@ -1,6 +1,8 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently working on: Cracking the Coding Interview
+🛠 I'm currently building with: The MERN stack
+
+📖 I'm studying : Cracking the Coding Interview
 
 📫  How to reach me: Email
 
