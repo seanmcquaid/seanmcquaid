@@ -1,8 +1,10 @@
 ### Hello there, welcome to my GitHub! 👋
 
+🖼️ My preferred JavaScript framework: ⚛️ React
+
 🛠 I'm currently building with: Vue.js + Java + SpringBoot + PostgreSQL
 
-📖 I'm currently studying : Cracking the Coding Interview
+📖 I'm currently studying: Cracking the Coding Interview
 
 📫 Best way to reach me: Email
 
