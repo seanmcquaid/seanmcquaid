@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🛠 I'm currently building with: The MERN stack
+🛠 I'm currently building with: Vue.js + Java + SpringBoot + PostgreSQL
 
 📖 I'm currently studying : Cracking the Coding Interview
 
