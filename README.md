@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-🛠 I'm currently building with: Vue.js + Java + SpringBoot + PostgreSQL
+🛠 I'm currently building with: React + React Query
 
 📖 I'm currently studying: Cracking the Coding Interview
 
