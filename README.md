@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-🛠 I'm currently building: My own component library!
+🛠 I'm currently building: My own component library and a tool for more easily creating Regex
 
 📖 I'm currently studying: Cracking the Coding Interview
 
