@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-🛠 I'm currently building: A Bunch of Example Templates in React
+🛠 I'm currently building: An E-commerce Website with the MERN stack
 
 📖 I'm currently studying: Cracking the Coding Interview
 
