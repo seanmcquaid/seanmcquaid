@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-🛠 I'm currently building: A Recipe Creation Tool with the MERN stack
+<!--- 🛠 I'm currently building: --->
 
 📖 I'm currently studying: Cracking the Coding Interview
 
