@@ -4,7 +4,7 @@
 
 <!--- 🛠 I'm currently building: --->
 
-📖 I'm currently studying: Cracking the Coding Interview
+📖 I'm currently learning: Golang
 
 📫 Best way to reach me: Email
 
