@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-<!--- 🛠 I'm currently building: --->
+- 🛠 I'm currently building: A Budgeting App
 
 <!-- 📖 I'm currently learning: Golang -->
 
