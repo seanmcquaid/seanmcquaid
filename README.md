@@ -2,10 +2,10 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-🛠 I'm currently building: A Personal Finance App
+<!-- 🛠 I'm currently building: -->
 
-<!-- 📖 I'm currently learning: Golang -->
+<!-- 📖 I'm currently learning: -->
 
-<!-- 📫 Best way to reach me: Email -->
+📫 Best way to reach me: Email
 
 🎺 Fun fact: My Bachelor's and Master's degree are both in Music with a focus in Jazz Trumpet!
