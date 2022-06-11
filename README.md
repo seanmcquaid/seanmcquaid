@@ -2,9 +2,9 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-<!-- 🛠 I'm currently building: -->
+🛠 I'm currently building: Technology to better equip our Operators to manage their Delivery business, as well as, a Micro Front End platform
 
-<!-- 📖 I'm currently learning: -->
+📖 I'm currently learning: SolidJS
 
 📫 Best way to reach me: Email
 
