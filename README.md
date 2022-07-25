@@ -2,9 +2,9 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-🛠 I'm currently building: Technology to better equip our Operators to manage their Delivery business, as well as, a Micro Front End platform
+🛠 I'm currently building: A Micro Front End Platform using Single-Spa
 
-📖 I'm currently learning: SolidJS
+📖 I'm currently learning: AWS Cloudformation
 
 📫 Best way to reach me: Email
 
