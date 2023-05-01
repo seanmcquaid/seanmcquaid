@@ -4,7 +4,7 @@
 
 🛠 I'm currently building: A Micro Front End Platform using Single-Spa
 
-📖 I'm currently learning: Remix + Playwright
+📖 I'm currently learning: NextJS 13 - App Router
 
 📫 Best way to reach me: Email
 
