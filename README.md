@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript framework: ⚛️ React
 
-🛠 I'm currently building: A Micro Front End Platform using Single-Spa
+🛠 I'm currently building: A scaffolding CLI for new Frontend projects using my stack
 
 📖 I'm currently learning: NextJS 13 - App Router
 
