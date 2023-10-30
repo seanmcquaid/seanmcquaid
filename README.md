@@ -4,7 +4,7 @@
 
 🛠 I'm currently building: A scaffolding CLI for new Frontend projects using my stack
 
-📖 I'm currently learning: NextJS 13 - App Router
+📖 I'm currently learning: Next.js 14 - App Router
 
 📫 Best way to reach me: Email
 
