@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript framework: 💿 Remix
 
-🛠 I'm currently building: A scaffolding CLI for new Frontend projects using my stack
+🛠 I'm currently building: Scaffolding template for new Frontend projects using my stack
 
 📫 Best way to reach me: Email
 
