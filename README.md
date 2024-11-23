@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🖼️ My preferred JavaScript framework: 💿 Remix
+🖼️ My preferred JavaScript Rendering Library : React
 
 🛠 I'm currently building: Scaffolding template for new Frontend projects using my stack
 
