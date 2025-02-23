@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript Rendering Library : React
 
-🛠 I'm currently building: Scaffolding template for new Frontend projects using my stack
+🛠 I'm currently building: Scaffolding templates for new Frontend projects using my stack
 
 📫 Best way to reach me: Email
 
