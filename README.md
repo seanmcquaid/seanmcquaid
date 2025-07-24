@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript Rendering Library : React
 
-🛠 I'm currently building: Scaffolding templates for new Frontend projects using my stack
+🛠 I'm currently building: My own instructions files for AI tools like GitHub CoPilot and Cursor to have a better baseline standard for writing code for my projects
 
 📫 Best way to reach me: Email
 
