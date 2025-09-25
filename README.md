@@ -1,8 +1,8 @@
 ### Hello there, welcome to my GitHub! 👋
 
-🖼️ My preferred JavaScript Rendering Library : React
+🖼️ My preferred JavaScript Rendering Library : React / React Native
 
-🛠 I'm currently building: My own instructions files for AI tools like GitHub CoPilot and Cursor to have a better baseline standard for writing code for my projects
+🛠 I'm currently building: A scaffolding template for new Expo Router React Native apps
 
 📫 Best way to reach me: Email
 
