@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript Rendering Library : React / React Native
 
-🛠 I'm currently building: A scaffolding template for new Expo Router React Native apps
+🛠 I'm currently building: Agenetic AI Foundations + Automated Workflows
 
 📫 Best way to reach me: Email
 
