@@ -2,7 +2,7 @@
 
 🖼️ My preferred JavaScript Rendering Library : React / React Native
 
-🛠 I'm currently building: Agenetic AI Foundations + Automated Workflows
+🛠 I'm currently building: Agenetic AI Foundations
 
 📫 Best way to reach me: Email
 
